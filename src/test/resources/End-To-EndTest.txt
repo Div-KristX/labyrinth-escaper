@@ -1,0 +1,5 @@
+src/test/resources/LabyrinthTestCustom.txt
+8
+0
+14
+10
